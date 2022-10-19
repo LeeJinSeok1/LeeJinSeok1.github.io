@@ -1,30 +1,7 @@
-Responsive HTML5 website template for developers
+Template Name: Untreefolio
+Template Author: Untree.co
+Template License: https://creativecommons.org/licenses/by/3.0/
+Author URI: https://untree.co/
 
-Theme name:
-=======================================================================
-Developer
-
-Theme version:
-=======================================================================
-v1.5
-
-Release Date:
-=======================================================================
-07 Jan 2016
-
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
-
-Contact:
-=======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
-
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
-
-If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
+Twitter: https://twitter.com/Untree_co
+Facebook: https://web.facebook.com/Untree.co/
